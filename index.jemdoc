@@ -1,0 +1,58 @@
+# jemdoc: menu{MENU}{index.html}
+= Home
+
+~~~
+{}{img_left}{AKS_pic.jpg}{Anit Kumar Sahu}{170}{200}
+Anit Kumar Sahu \n Research Scientist\n
+anit dot sahu at gmail dot com
+~~~
+
+
+{{<a href="https://www.linkedin.com/in/anitsahu">
+<img src="http://www.linkedin.com/img/webpromo/btn_viewmy_160x33.png" width="120" height="25" border="0" alt="LinkedIn"></a>}}
+
+== Welcome
+Hi! and welcome to my website. My name is Anit Kumar Sahu. I was a PhD Candidate at the [http://www.ece.cmu.edu/ Department of Electrical and Computer Engineering], [http://www.cmu.edu/ Carnegie Mellon University] until November 2018. I defended my PhD in November 2018 [https://figshare.com/articles/Inference_and_Optimization_over_Networks_Communication_Efficiency_and_Optimality/7447967/1 \[Thesis\]]\n
+
+I was lucky to have been  advised by [https://users.ece.cmu.edu/~soummyak/ Prof. Soummya Kar]. I collaborate very closely with [http://users.ece.cmu.edu/~smithv/ Prof. Virginia Smith], [http://people.dmi.uns.ac.rs/~dusan.jakovetic/ Prof. Dusan Jakovetic] and [https://www.researchgate.net/profile/Dragana_Bajovic Prof.Dragana Bajovic]. Before joining CMU, I spent 5 beautiful years and simultaneously earned my B.Tech and M.Tech degrees in the [http://www.ecdept.iitkgp.ernet.in/ Department of Electronics and Electrical Communication Engineering] 
+at [http://www.iitkgp.ac.in/ Indian Institute of Technology,Kharagpur]. 
+I worked with [http://www.ecdept.iitkgp.ernet.in/faculty/MChakraborty/ Prof. Mrityunjoy Chakraborty] during my undergraduate days in IIT Kharagpur.
+
+I am broadly interested in the fields of Optimization, Distributed Inference and Statistical Machine Learning.
+
+Last updated [AKS_resume_MS_AIR.pdf CV]. Please e-mail me for the latest version of my CV.
+                
+You can find more about me by browsing this site.
+
+== Research News
+~~~
+- Paper on [https://arxiv.org/pdf/1810.03233.pdf Zeroth order Stochastic Frank Wolfe] accepted to AISTATS 2019.
+~~~
+
+~~~
+- New Preprint on [FedConv.pdf On the Convergence of Federated Optimization in Heterogeneous Networks]
+~~~
+
+~~~
+- Defended my PhD!
+~~~
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
