@@ -1,22 +1,17 @@
 # jemdoc: menu{MENU}{pub.html}
 == Publications ([https://scholar.google.com/citations?user=QC1td3UAAAAJ&hl=en Google Scholar])
 
-
-== Book Chapter
-- *A.K. Sahu* and S. Kar, "Distributed recursive testing of composite hypothesis in multi-agent networks," in Data Fusion in Wireless Sensor Networks: A Statistical Signal Processing Perspective, Domenico Ciuonzo and Pierluigi Salvo Rossi, Eds., Institution of Engineering & Technology, 2019
-
-
 == Thesis
 - [https://figshare.com/articles/Inference_and_Optimization_over_Networks_Communication_Efficiency_and_Optimality/7447967/1 Inference and Optimization over Networks: Communication Efficiency and Optimality], Department of Electrical and Computer Engineering, Carnegie Mellon University, 2018
 
 == Journal Papers and Preprints
-- *A.K. Sahu*, T. Li, M, Sanjabi, M. Zaheer, A. Talwalkar and V. Smith, [FedConv.pdf On the Convergence of Federated Optimization in Heterogeneous Networks], December 2018
-
+- *A.K. Sahu*, T. Li, M, Sanjabi, M. Zaheer, A. Talwalkar and V. Smith, [FedConv_ICML.pdf On the Convergence of Federated Optimization in Heterogeneous Networks], December 2018
+- *A.K. Sahu*, D. Jakovetic, D. Bajovic and [https://users.ece.cmu.edu/~soummyak/ S. Kar], [credo-directed-extended.pdf Communication Efficient Distributed Estimation over Directed Random Graphs]
 - *A.K. Sahu*, D.Jakovetic, D. Bajovic and [https://users.ece.cmu.edu/~soummyak/   S. Kar], [maintac_1col.pdf Communication-Efficient Distributed Strongly Convex Stochastic Optimization: Non-Asymptotic Rates], Under Review in IEEE Transactions on Automatic Control. Initial Submission: September 2018
 
-- *A.K. Sahu*, D.Jakovetic, D. Bajovic and [https://users.ece.cmu.edu/~soummyak/   S. Kar], [comm_ci_eurasipSUBMIT.pdf Communication Efficient Distributed Weighted Non-Linear Least Squares Estimation], EURASIP Journal on Advances in Signal Processing, December 2018
+- *A.K. Sahu*, D.Jakovetic, D. Bajovic and [https://users.ece.cmu.edu/~soummyak/   S. Kar], [comm_ci_eurasipSUBMIT.pdf Communication Efficient Distributed Weighted Non-Linear Least Squares Estimation], Under review in EURASIP Journal on Advances in Signal Processing. Initial Submission: March 2018. Revised: July 2018
 
-- *A.K. Sahu*, D.Jakovetic and [https://users.ece.cmu.edu/~soummyak/   S. Kar], [random_fields_1col_final.pdf “CIRFE: A Distributed Random Fields Estimator”], IEEE Transactions on Signal Processing, Volume: 16, Issue: 18, Pages: 4980-4995, 2018.
+- *A.K. Sahu*, D.Jakovetic and [https://users.ece.cmu.edu/~soummyak/   S. Kar], [random_fields_1col_final.pdf “CIRFE: A Distributed Random Fields Estimator”], To appear in IEEE Transactions on Signal Processing. Initial Submission: February 2018. Revised: June 2018. Accepted: July 2018
 
 - *A.K. Sahu*, D.Jakovetic and [https://users.ece.cmu.edu/~soummyak/   S. Kar], [comm_ci_jmlr_prefinal.pdf “Communication Optimality Trade-offs For Distributed Estimation”], Under review in [http://www.jmlr.org  Journal of Machine Learning Research]. Initial Submission: January 2018
 
@@ -28,7 +23,8 @@
 Vol:64, Issue 1, pp. 89-103, 2016
 
 == Conference Papers
-- *A.K. Sahu*, D. Jakovetic, D. Bajovic and [https://users.ece.cmu.edu/~soummyak/ S. Kar], [credo-directed-extended.pdf Communication Efficient Distributed Estimation over Directed Random Graphs], Under review in [https://2019.ieeeicassp.org ICASSP 2019]
+- R.Xin, *A.K. Sahu*, U.A. Khan and [https://users.ece.cmu.edu/~soummyak/ S. Kar], [SAB.pdf Distributed stochastic optimization with gradient tracking
+over strongly-connected networks], Under review in [https://cdc2019.ieeecss.org CDC 2019]
 
 - *A.K. Sahu*, M. Zaheer and [https://users.ece.cmu.edu/~soummyak/ S. Kar], [https://arxiv.org/pdf/1810.03233.pdf Towards Gradient Free and Projection Free Stochastic Optimization], In Proceedings of [https://www.aistats.org/ 22nd International Conference on  Artificial Intelligence and Statistics(AISTATS)]
 
