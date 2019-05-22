@@ -3,16 +3,16 @@
 
 == Thesis
 - [https://figshare.com/articles/Inference_and_Optimization_over_Networks_Communication_Efficiency_and_Optimality/7447967/1 Inference and Optimization over Networks: Communication Efficiency and Optimality], Department of Electrical and Computer Engineering, Carnegie Mellon University, 2018
-
+== Book Chapter
+- *A.K. Sahu* and S. Kar, Distributed recursive testing of composite hypothesis in multi-agent networks, in Data Fusion in Wireless Sensor Networks: A Statistical Signal Processing Perspective, Domenico Ciuonzo and Pierluigi Salvo Rossi, Eds., Institution of Engineering & Technology, 2019
 == Journal Papers and Preprints
-- *A.K. Sahu*, T. Li, M, Sanjabi, M. Zaheer, A. Talwalkar and V. Smith, [FedConv_ICML.pdf On the Convergence of Federated Optimization in Heterogeneous Networks], December 2018
+- T. Li, *A.K. Sahu*, M. Zaheer, M. Sanjabi, A. Talwalkar and V. Smith, [FedConv_ICML.pdf On the Convergence of Federated Optimization in Heterogeneous Networks], December 2018
 - *A.K. Sahu*, D. Jakovetic, D. Bajovic and [https://users.ece.cmu.edu/~soummyak/ S. Kar], [credo-directed-extended.pdf Communication Efficient Distributed Estimation over Directed Random Graphs]
 - *A.K. Sahu*, D.Jakovetic, D. Bajovic and [https://users.ece.cmu.edu/~soummyak/   S. Kar], [maintac_1col.pdf Communication-Efficient Distributed Strongly Convex Stochastic Optimization: Non-Asymptotic Rates], Under Review in IEEE Transactions on Automatic Control. Initial Submission: September 2018
 
-- *A.K. Sahu*, D.Jakovetic, D. Bajovic and [https://users.ece.cmu.edu/~soummyak/   S. Kar], [comm_ci_eurasipSUBMIT.pdf Communication Efficient Distributed Weighted Non-Linear Least Squares Estimation], Under review in EURASIP Journal on Advances in Signal Processing. Initial Submission: March 2018. Revised: July 2018
+- *A.K. Sahu*, D.Jakovetic, D. Bajovic and [https://users.ece.cmu.edu/~soummyak/   S. Kar], [comm_ci_eurasipSUBMIT.pdf Communication Efficient Distributed Weighted Non-Linear Least Squares Estimation], EURASIP Journal on Advances in Signal Processing.Vol.66, No.1, October 2018
 
-- *A.K. Sahu*, D.Jakovetic and [https://users.ece.cmu.edu/~soummyak/   S. Kar], [random_fields_1col_final.pdf “CIRFE: A Distributed Random Fields Estimator”], To appear in IEEE Transactions on Signal Processing. Initial Submission: February 2018. Revised: June 2018. Accepted: July 2018
-
+- *A.K. Sahu*, D.Jakovetic and [https://users.ece.cmu.edu/~soummyak/   S. Kar], [random_fields_1col_final.pdf “CIRFE: A Distributed Random Fields Estimator”], IEEE Transactions on Signal Processing, Vol.66, No. 18, pp. 4980-4995, September 2018
 - *A.K. Sahu*, D.Jakovetic and [https://users.ece.cmu.edu/~soummyak/   S. Kar], [comm_ci_jmlr_prefinal.pdf “Communication Optimality Trade-offs For Distributed Estimation”], Under review in [http://www.jmlr.org  Journal of Machine Learning Research]. Initial Submission: January 2018
 
 - *A.K. Sahu* and [https://users.ece.cmu.edu/~soummyak/   S. Kar], [http://ieeexplore.ieee.org/document/7885107/  "Recursive Distributed Detection for Composite Hypothesis Testing: Nonlinear Observation Models in Additive Gaussian Noise”], IEEE Transactions on Information Theory. Vol: 63, Issue 8, pp. 4797-4828, 2017.
