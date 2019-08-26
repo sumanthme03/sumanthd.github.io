@@ -7,7 +7,7 @@
 - *A.K. Sahu* and S. Kar, Distributed recursive testing of composite hypothesis in multi-agent networks, in Data Fusion in Wireless Sensor Networks: A Statistical Signal Processing Perspective, Domenico Ciuonzo and Pierluigi Salvo Rossi, Eds., Institution of Engineering & Technology, 2019
 == Journal Papers and Preprints
 - J. Wang, *A.K. Sahu*, Z. Yang, G. Joshi, S. Kar [https://arxiv.org/pdf/1905.09435.pdf MATCHA: Speeding up Decentralized SGD via Matching Decomposition Sampling], May 2019
-- T. Li, *A.K. Sahu*, M. Zaheer, M. Sanjabi, A. Talwalkar and V. Smith, [FedConv_ICML.pdf On the Convergence of Federated Optimization in Heterogeneous Networks], December 2018
+- T. Li, *A.K. Sahu*, M. Zaheer, M. Sanjabi, A. Talwalkar and V. Smith, [_NeurIPS_19__FedProx.pdf On the Convergence of Federated Optimization in Heterogeneous Networks], December 2018
 - *A.K. Sahu*, D. Jakovetic, D. Bajovic and [https://users.ece.cmu.edu/~soummyak/ S. Kar], [credo-directed-extended.pdf Communication Efficient Distributed Estimation over Directed Random Graphs]
 - *A.K. Sahu*, D.Jakovetic, D. Bajovic and [https://users.ece.cmu.edu/~soummyak/   S. Kar], [maintac_1col.pdf Communication-Efficient Distributed Strongly Convex Stochastic Optimization: Non-Asymptotic Rates], Under Review in IEEE Transactions on Automatic Control. Initial Submission: September 2018
 
