@@ -6,8 +6,12 @@
 == Book Chapter
 - *A.K. Sahu* and S. Kar, Distributed recursive testing of composite hypothesis in multi-agent networks, in Data Fusion in Wireless Sensor Networks: A Statistical Signal Processing Perspective, Domenico Ciuonzo and Pierluigi Salvo Rossi, Eds., Institution of Engineering & Technology, 2019
 == Journal Papers and Preprints
-- J. Wang, *A.K. Sahu*, Z. Yang, G. Joshi, S. Kar [https://arxiv.org/pdf/1905.09435.pdf MATCHA: Speeding up Decentralized SGD via Matching Decomposition Sampling], May 2019
-- T. Li, *A.K. Sahu*, M. Zaheer, M. Sanjabi, A. Talwalkar and V. Smith, [FedProx.pdf On the Convergence of Federated Optimization in Heterogeneous Networks], December 2018
+- *A.K. Sahu*, J.Zico Kolter and S.N. Shukla Gaussian MRF Covariance Modeling for Efficient Black-Box Adversarial Attacks, September 2019
+- S.N. Shukla, *A.K. Sahu*, D. Willmott and J.Zico Kolter [https://arxiv.org/pdf/1909.13857.pdf Black-Box Adversarial Attacks with Bayesian Optimization], September 2019
+- G. Gupta, *A.K. Sahu* and Wan-Yi Lin [https://arxiv.org/pdf/1909.12473.pdf Learning in Confusion: Batch Active Learning with Noisy Oracle], September 2019
+- T. Li, *A.K. Sahu*, A. Talwalkar and V. Smith [https://arxiv.org/pdf/1908.07873.pdf Federated Learning: Challenges, Methods and Future Directions], August 2019, A shorter version is under review in IEEE Signal Processing Magazine
+- J. Wang, *A.K. Sahu*, Z. Yang, G. Joshi, S. Kar [https://arxiv.org/pdf/1905.09435.pdf MATCHA: Speeding up Decentralized SGD via Matching Decomposition Sampling], May 2019 (An abridged version appears in [http://federated-learning.org/fl-neurips-2019/     NeurIPS 2019 Workshop on Federated Learning])
+- T. Li, *A.K. Sahu*, M. Zaheer, M. Sanjabi, A. Talwalkar and V. Smith, [FedProx.pdf On the Convergence of Federated Optimization in Heterogeneous Networks], December 2018 (An abridged version appeared in [http://www.amtl-workshop.org/ ICML 2019 AMTL Workshop])
 - *A.K. Sahu*, D. Jakovetic, D. Bajovic and [https://users.ece.cmu.edu/~soummyak/ S. Kar], [credo-directed-extended.pdf Communication Efficient Distributed Estimation over Directed Random Graphs]
 - *A.K. Sahu*, D.Jakovetic, D. Bajovic and [https://users.ece.cmu.edu/~soummyak/   S. Kar], [maintac_1col.pdf Communication-Efficient Distributed Strongly Convex Stochastic Optimization: Non-Asymptotic Rates], Under Review in IEEE Transactions on Automatic Control. Initial Submission: September 2018
 
