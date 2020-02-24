@@ -3,7 +3,7 @@
 
 ~~~
 {}{img_left}{anit_sahu.jpg}{Anit Kumar Sahu}{170}{200}
-Anit Kumar Sahu \n Machine Learning Research Scientist\n Bosch Center for Artificial Intelligence\n
+Anit Kumar Sahu \n Machine Learning Research Scientist\n [https://www.bosch-ai.com/our-people/team-pittsburgh/ Bosch Center for Artificial Intelligence]\n
 anit dot sahu at gmail dot com
 ~~~
 
@@ -27,24 +27,21 @@ You can find more about me by browsing this site.
 == Research News
 
 ~~~
-<<<<<<< HEAD
 - Tutorial Paper on [https://arxiv.org/pdf/1908.07873 Federated Learning] accepted to IEEE Signal Processing Magazine.
 ~~~
 
 ~~~
 - Organizing a session on Decentralized Optimization at Asilomar Conference on Signals, Systems and Computers 2020.
-=======
-- New preprint on [https://arxiv.org/pdf/1905.09435.pdf Speeding up Decentralized SGD].
+~~~
+
+~~~
+- [https://arxiv.org/pdf/1812.06127.pdf FedProx] accepted to [https://mlsys.org MLSys 2020].
 ~~~
 
 ~~~
 - Awarded the [https://www.ece.cmu.edu/student-resources/commencement-awards.html AG Jordan Award].
 ~~~
 
-~~~
-- New preprint on [https://arxiv.org/abs/1903.07266 Stochastic Optimization on Directed Graphs].
->>>>>>> 7d75092c029e01aa70c9ce09e748e138e3d2e08b
-~~~
 
 
 

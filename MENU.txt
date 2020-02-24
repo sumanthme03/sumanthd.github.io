@@ -2,7 +2,7 @@ Home                [index.html]\n
 
 About Me          [about_me.html]\n
 
-Research            [research.html]\n
+Services            [services.html]\n
 
 Publications        [pub.html]\n
 
