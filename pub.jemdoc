@@ -5,6 +5,12 @@
 - [https://figshare.com/articles/Inference_and_Optimization_over_Networks_Communication_Efficiency_and_Optimality/7447967/1 Inference and Optimization over Networks: Communication Efficiency and Optimality], Department of Electrical and Computer Engineering, Carnegie Mellon University, 2018
 == Book Chapter
 - *A.K. Sahu* and S. Kar, Distributed recursive testing of composite hypothesis in multi-agent networks, in Data Fusion in Wireless Sensor Networks: A Statistical Signal Processing Perspective, Domenico Ciuonzo and Pierluigi Salvo Rossi, Eds., Institution of Engineering & Technology, 2019
+== Patents
+- Bayesian Optimization based query efficient black box adversarial attacks, S. N. Shukla, *A. K. Sahu*, D. Willmott, Z. Kolter, US Patent App. No. 16/580587
+- Efficient Black Box adversarial attacks exploiting input data structure, *A. K. Sahu*, Z. Kolter, US Patent App. No. 16/580650
+
+
+
 == Journal Papers and Preprints
 
 - *A.K. Sahu*, J.Zico Kolter and S.N. Shukla, Gaussian MRF Covariance Modeling for Efficient Black-Box Adversarial Attacks, September 2019
