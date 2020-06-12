@@ -1,6 +1,5 @@
 # jemdoc: menu{MENU}{pub.html}
 == Publications ([https://scholar.google.com/citations?user=QC1td3UAAAAJ&hl=en Google Scholar])
-
 == Thesis
 - [https://figshare.com/articles/Inference_and_Optimization_over_Networks_Communication_Efficiency_and_Optimality/7447967/1 Inference and Optimization over Networks: Communication Efficiency and Optimality], Department of Electrical and Computer Engineering, Carnegie Mellon University, 2018
 == Book Chapter
@@ -12,6 +11,11 @@
 
 
 == Journal Papers and Preprints
+- D, Willmott\*, A.K. Sahu\*, F. Sheikholeslami\*, F. Condessa, and J.Zico Kolter, You only query once: Effective black box adversarial attacks with minimal repeated queries, June 2020 (\* denotes equal contribution)
+
+- S.N. Shukla, *A.K. Sahu*, D. Willmott and J.Zico Kolter, [ICML2020_HardLabel-3.pdf Hard Label Black-box Adversarial Attacks in Low Query Budget Regimes], February 2020
+
+- *A.K. Sahu* and S. Kar, [Proc_IEE_FW-2.pdf Decentralized Zeroth Order Constrained Stochastic Optimization Algorithms: Frank-Wolfe and Variants With Applications to Black-Box Adversarial Attacks], Under review in the /Proceedings of the IEEE/.
 
 - *A.K. Sahu*, J.Zico Kolter and S.N. Shukla, Gaussian MRF Covariance Modeling for Efficient Black-Box Adversarial Attacks, September 2019
 
@@ -24,20 +28,17 @@
 - J. Wang, *A.K. Sahu*, Z. Yang, G. Joshi and S. Kar, [https://arxiv.org/pdf/1905.09435.pdf MATCHA: Speeding up Decentralized SGD via Matching Decomposition Sampling], May 2019 (An abridged version appears in [http://federated-learning.org/fl-neurips-2019/     NeurIPS 2019 Workshop on Federated Learning] /Best Student Paper Award/)
 
 - *A.K. Sahu*, D.Jakovetic, D. Bajovic and [https://users.ece.cmu.edu/~soummyak/   S. Kar], [maintac_1col.pdf Communication-Efficient Distributed Strongly Convex Stochastic Optimization: Non-Asymptotic Rates], Under Review in IEEE Transactions on Automatic Control. Initial Submission: September 2018
-
-- *A.K. Sahu*, D.Jakovetic, D. Bajovic and [https://users.ece.cmu.edu/~soummyak/   S. Kar], [comm_ci_eurasipSUBMIT.pdf Communication Efficient Distributed Weighted Non-Linear Least Squares Estimation], EURASIP Journal on Advances in Signal Processing.Vol.66, No.1, October 2018
+- *A.K. Sahu*, D.Jakovetic, D. Bajovic and [https://users.ece.cmu.edu/~soummyak/   S. Kar], [comm_ci_eurasipSUBMIT.pdf Communication Efficient Distributed Weighted Non-Linear Least Squares Estimation], EURASIP Journal on Advances in Signal Processing.Vol.66, No.1, October 2018
 
 - *A.K. Sahu*, D.Jakovetic and [https://users.ece.cmu.edu/~soummyak/   S. Kar], [random_fields_1col_final.pdf “CIRFE: A Distributed Random Fields Estimator”], IEEE Transactions on Signal Processing, Vol.66, No. 18, pp. 4980-4995, September 2018
 
 - *A.K. Sahu*, D.Jakovetic and [https://users.ece.cmu.edu/~soummyak/   S. Kar], [comm_ci_jmlr_prefinal.pdf “Communication Optimality Trade-offs For Distributed Estimation”], Under review in [http://www.jmlr.org  Journal of Machine Learning Research]. Initial Submission: January 2018
-
 - *A.K. Sahu* and [https://users.ece.cmu.edu/~soummyak/   S. Kar], [http://ieeexplore.ieee.org/document/7885107/  "Recursive Distributed Detection for Composite Hypothesis Testing: Nonlinear Observation Models in Additive Gaussian Noise”], IEEE Transactions on Information Theory. Vol: 63, Issue 8, pp. 4797-4828, 2017.
 
 - *A.K. Sahu*, [https://users.ece.cmu.edu/~soummyak/   S. Kar], [https://users.ece.cmu.edu/~moura/   Jose' M. F. Moura], [http://ee.princeton.edu/people/faculty/h-vincent-poor   H. Vincent Poor], [http://ieeexplore.ieee.org/document/7592408/  "Distributed Constrained Recursive Nonlinear Least-Squares Estimation: Algorithms and Asymptotics"], /Special Issue on Inference and Learning over Networks/ of IEEE Transactions on Signal and Information Processing over Networks. Vol:2, Issue 4, pp. 426-441, 2016.
 
-- *A.K. Sahu* and [https://users.ece.cmu.edu/~soummyak/   S. Kar], [http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=7265085  "Distributed Sequential Detection for Gaussian Shift-in-Mean Hypothesis Testing"], IEEE Transactions on Signal Processing, 
+- *A.K. Sahu* and [https://users.ece.cmu.edu/~soummyak/   S. Kar], [http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=7265085  "Distributed Sequential Detection for Gaussian Shift-in-Mean Hypothesis Testing"], IEEE Transactions on Signal Processing,
 Vol:64, Issue 1, pp. 89-103, 2016
-
 == Conference Papers
 
 - T. Li, *A.K. Sahu*, M. Zaheer, M. Sanjabi, A. Talwalkar and V. Smith, [https://arxiv.org/pdf/1812.06127.pdf Federated Optimization in Heterogeneous Networks], In Proceedings of [https://mlsys.org MLSys 2020]. (An abridged version appeared in [http://www.amtl-workshop.org/ ICML 2019 AMTL Workshop])
@@ -48,17 +49,13 @@ Vol:64, Issue 1, pp. 89-103, 2016
 
 - R.Xin, *A.K. Sahu*, U.A. Khan and [https://users.ece.cmu.edu/~soummyak/ S. Kar], [SAB.pdf Distributed stochastic optimization with gradient tracking
 over strongly-connected networks], In Proceedings of [https://cdc2019.ieeecss.org 58th IEEE Conference on Decision and Control, CDC 2019]
-
 - *A.K. Sahu*, M. Zaheer and [https://users.ece.cmu.edu/~soummyak/ S. Kar], [https://arxiv.org/pdf/1810.03233.pdf Towards Gradient Free and Projection Free Stochastic Optimization], In Proceedings of [https://www.aistats.org/ 22nd International Conference on  Artificial Intelligence and Statistics(AISTATS)]
 
 - *A.K. Sahu*, D. Jakovetic, D. Bajovic and [https://users.ece.cmu.edu/~soummyak/ S. Kar], [credo-directed-extended.pdf Communication Efficient Distributed Estimation over Directed Random Graphs], In Proceedings of IEEE EUROCON 2019, 18th International Conference on Smart Technologies
-
 - *A.K. Sahu*, D.Jakovetic, D. Bajovic and [https://users.ece.cmu.edu/~soummyak/   S. Kar], [globalsip2018.pdf “Non-Asymptotic Rates for Communication Efficient Distributed Zeroth Order Strongly Convex Optimization”], In Proceedings of [https://2018.ieeeglobalsip.org/Default.asp  IEEE Global Conference on Signal and Information Processing(GlobalSIP), 2018]
 
 - D.Jakovetic, D. Bajovic, *A.K. Sahu* and [https://users.ece.cmu.edu/~soummyak/   S. Kar], [MainCDC2018.pdf “Convergence rates for distributed stochastic optimization over random networks”], In Proceedings of [https://cdc2018.ieeecss.org  57th IEEE Conference on Decision and Control, CDC 2018]
-
 - *A.K. Sahu*, D.Jakovetic, D. Bajovic and [https://users.ece.cmu.edu/~soummyak/   S. Kar], [MainCDC2018KWSA.pdf “Distributed Zeroth Order Optimization Over Random Networks: A Kiefer-Wolfowitz Stochastic Approximation Approach”], In Proceedings of [https://cdc2018.ieeecss.org  57th IEEE Conference on Decision and Control, CDC 2018]
-
 - D. Bajovic, D.Jakovetic, *A.K. Sahu* and [https://users.ece.cmu.edu/~soummyak/   S. Kar], [p1061-bajovic.pdf “Large Deviations for Products of Non-i.i.d. Stochastic Matrices with Application to Distributed Detection”], In Proceedings of [http://www.isit2018.org  International Symposium on Information Theory, ISIT 2018]
 
 - *A.K. Sahu*, D.Jakovetic and [https://users.ece.cmu.edu/~soummyak/   S. Kar], [p516-sahu.pdf “CREDO: A Communication-Efficient Distributed Estimation Algorithm”], In Proceedings of [http://www.isit2018.org  International Symposium on Information Theory, ISIT 2018]
@@ -75,27 +72,12 @@ over strongly-connected networks], In Proceedings of [https://cdc2019.ieeecss.or
 
 - *A.K. Sahu* and [https://users.ece.cmu.edu/~soummyak/   S. Kar], [http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7472543  "Distributed Generalized Likelihood Ratio Tests: Fundamental Limits and Tradeoffs"],[http://www.icassp2016.org/ International Conference on Acoustics, Speech and Signal Processing(ICASSP), 2016]
 
-- *A.K. Sahu* and [https://users.ece.cmu.edu/~soummyak/  S. Kar], [http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=7094543  "Distributed Sequential Detection for Gaussian Binary Hypothesis Testing : Heterogeneous Networks"], 
+- *A.K. Sahu* and [https://users.ece.cmu.edu/~soummyak/  S. Kar], [http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=7094543  "Distributed Sequential Detection for Gaussian Binary Hypothesis Testing : Heterogeneous Networks"],
 [http://www.asilomarsscconf.org/  48th Annual Asilomar Conference on Signals, Systems and Computers, 2014, Pacific Grove, CA]
-
-	
-	
-	
-	
-
 
 == Invited Talks
 - "Distributed Inference in Large-scale Stochastic Systems: Imperfect Communication" Department of Electronics and Electrical Communications Engineering, IIT Kharagpur, August 2016
-
 - "Distributed Weighted Non-linear least Squares and Recursive Composite Hypothesis Testing: A consensus+innovations approach", Mcgill University, July 2017
-
 - "Distributed Recursive Composite Hypothesis Testing: A consensus+innovations approach", [http://www.ifors17.ca IFORS 2017], July 2017
 
 - "Online Learning in Large Scale Stochastic Systems", IBM India Research Lab, August 2017
-
-
- 
-
-
-
-
