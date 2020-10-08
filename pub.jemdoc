@@ -20,7 +20,7 @@
 
 - *A.K. Sahu* and S. Kar, [Proc_IEEE_FW-2.pdf Decentralized Zeroth Order Constrained Stochastic Optimization Algorithms: Frank-Wolfe and Variants With Applications to Black-Box Adversarial Attacks], Accepted. To appear in the /Proceedings of the IEEE/.
 
-- *A.K. Sahu*, J.Zico Kolter and S.N. Shukla, Gaussian MRF Covariance Modeling for Efficient Black-Box Adversarial Attacks, September 2019
+- *A.K. Sahu*, J.Zico Kolter and S.N. Shukla, [gmrf.pdf Gaussian MRF Covariance Modeling for Efficient Black-Box Adversarial Attacks], September 2019, ([https://github.com/anitksahu/GMRF Code])
 
 - S.N. Shukla, *A.K. Sahu*, D. Willmott and J.Zico Kolter, [https://arxiv.org/pdf/1909.13857.pdf Black-Box Adversarial Attacks with Bayesian Optimization], September 2019
 
