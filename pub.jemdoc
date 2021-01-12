@@ -43,6 +43,7 @@
 - *A.K. Sahu* and [https://users.ece.cmu.edu/~soummyak/   S. Kar], [http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=7265085  "Distributed Sequential Detection for Gaussian Shift-in-Mean Hypothesis Testing"], IEEE Transactions on Signal Processing,
 Vol:64, Issue 1, pp. 89-103, 2016
 == Conference Papers
+- R. Fathony\*, A.K. Sahu\*, D. Willmott\* and J. Zico Kolter, [https://openreview.net/forum?id=OmtmcPkkhT Multiplicative Filter Networks], [https://iclr.cc ICLR 2021] (\* denotes equal contribution)
 
 - T. Li, *A.K. Sahu*, M. Zaheer, M. Sanjabi, A. Talwalkar and V. Smith, [https://arxiv.org/pdf/1812.06127.pdf Federated Optimization in Heterogeneous Networks], In Proceedings of [https://mlsys.org MLSys 2020]. (An abridged version appeared in [http://www.amtl-workshop.org/ ICML 2019 AMTL Workshop])
 
