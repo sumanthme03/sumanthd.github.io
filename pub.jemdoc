@@ -1,4 +1,4 @@
-# jemdoc: menu{MENU}{pub.html}
+# jemdoc: menu{MENU}{pub.html}:wq
 == Publications ([https://scholar.google.com/citations?user=QC1td3UAAAAJ&hl=en Google Scholar])
 == Thesis
 - [https://figshare.com/articles/Inference_and_Optimization_over_Networks_Communication_Efficiency_and_Optimality/7447967/1 Inference and Optimization over Networks: Communication Efficiency and Optimality], Department of Electrical and Computer Engineering, Carnegie Mellon University, 2018
@@ -44,7 +44,7 @@
 Vol:64, Issue 1, pp. 89-103, 2016
 == Conference Papers
 - R. Fathony\*, A.K. Sahu\*, D. Willmott\* and J. Zico Kolter, [https://openreview.net/forum?id=OmtmcPkkhT Multiplicative Filter Networks], [https://iclr.cc ICLR 2021] (\* denotes equal contribution)
-
+- J. Wang, *A.K. Sahu*, G. Joshi and S. Kar, [Asilomar_MATCHA.pdf Exploring the Error-Runtime Trade-off in Decentralized Optimization], In Proceedings of Asilomar OIn Proceedings of [http://www.asilomarsscconf.org/  54th Annual Asilomar Conference on Signals, Systems and Computers, 2019, Pacific Grove, CA]
 - T. Li, *A.K. Sahu*, M. Zaheer, M. Sanjabi, A. Talwalkar and V. Smith, [https://arxiv.org/pdf/1812.06127.pdf Federated Optimization in Heterogeneous Networks], In Proceedings of [https://mlsys.org MLSys 2020]. (An abridged version appeared in [http://www.amtl-workshop.org/ ICML 2019 AMTL Workshop])
 
 - T. Li, *A.K. Sahu*, M. Zaheer, M. Sanjabi, A. Talwalkar and V. Smith, [https://arxiv.org/pdf/2001.01920.pdf Fed-DANE: A Federated Newton-Type Method], In Proceedings of [http://www.asilomarsscconf.org/  53rd Annual Asilomar Conference on Signals, Systems and Computers, 2019, Pacific Grove, CA]
