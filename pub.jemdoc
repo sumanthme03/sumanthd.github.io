@@ -43,7 +43,9 @@
 - *A.K. Sahu* and [https://users.ece.cmu.edu/~soummyak/   S. Kar], [http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=7265085  "Distributed Sequential Detection for Gaussian Shift-in-Mean Hypothesis Testing"], IEEE Transactions on Signal Processing,
 Vol:64, Issue 1, pp. 89-103, 2016
 == Conference Papers
+
 - S.N. Shukla, *A.K. Sahu*, D. Willmott and J. Zico Kolter, [kdd_bo.pdf Simple and Efficient Hard Label Black-box Adversarial Attacks in Low Query Budget Regimes], [https://www.kdd.org/kdd2021/ KDD 2021]
+
 - R. Fathony\*, A.K. Sahu\*, D. Willmott\* and J. Zico Kolter, [https://openreview.net/forum?id=OmtmcPkkhT Multiplicative Filter Networks], [https://iclr.cc ICLR 2021] (\* denotes equal contribution)
 
 - J. Wang, *A.K. Sahu*, G. Joshi and S. Kar, [Asilomar_MATCHA.pdf Exploring the Error-Runtime Trade-off in Decentralized Optimization], In Proceedings of [http://www.asilomarsscconf.org/  54th Annual Asilomar Conference on Signals, Systems and Computers, 2020, Pacific Grove, CA]
