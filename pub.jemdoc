@@ -8,9 +8,12 @@
 - Improved Adversarial Training Using Meta-Learned Initialization, X. Zhang, *A. K. Sahu*, Z. Kolter, US Patent App. No. 17/062385
 - Multiplicative Filter Networks, D. Willmott, *A. K. Sahu*, R. Fathony, F. Condessa, Z. Kolter, US Patent App. No. 17/034496
 - System and Method of a Monotone Operator Neural Network, E. Winston, Z. Kolter, *A. K. Sahu*, US Patent App. No. 16/850816
-- Bayesian Optimization based query efficient black box adversarial attacks, S. N. Shukla, *A. K. Sahu*, D. Willmott, Z. Kolter, US Patent App. No. 16/580587
-- Efficient Black Box adversarial attacks exploiting input data structure, *A. K. Sahu*, Z. Kolter, US Patent App. No. 16/580650
-- Training a machine learning model using a batch based active learning approach, J. Szurley, W. Lin, *A. K. Sahu*, G. Gupta, US Patent App. No. 16/582928
+
+- [https://patentimages.storage.googleapis.com/e7/29/f2/91a56de797faa6/US20210089879A1.pdf  Bayesian Optimization based query efficient black box adversarial attacks], S. N. Shukla, *A. K. Sahu*, D. Willmott, Z. Kolter, US Patent App. No. 16/580587
+
+- [https://patentimages.storage.googleapis.com/0a/ce/ed/d0ef5853a78b08/US20210089866A1.pdf Efficient Black Box adversarial attacks exploiting input data structure], *A. K. Sahu*, Z. Kolter, US Patent App. No. 16/580650
+
+- [https://patentimages.storage.googleapis.com/fb/0d/7c/3161c154555e25/US20210089960A1.pdf Training a machine learning model using a batch based active learning approach], J. Szurley, W. Lin, *A. K. Sahu*, G. Gupta, US Patent App. No. 16/582928
 
 
 == Journal Papers and Preprints
