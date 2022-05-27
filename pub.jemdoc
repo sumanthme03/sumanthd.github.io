@@ -5,9 +5,9 @@
 == Book Chapter
 - *A.K. Sahu* and S. Kar, Distributed recursive testing of composite hypothesis in multi-agent networks, in Data Fusion in Wireless Sensor Networks: A Statistical Signal Processing Perspective, Domenico Ciuonzo and Pierluigi Salvo Rossi, Eds., Institution of Engineering & Technology, 2019
 == Patents
-- Improved Adversarial Training Using Meta-Learned Initialization, X. Zhang, *A. K. Sahu*, Z. Kolter, US Patent App. No. 17/062385
-- Multiplicative Filter Networks, D. Willmott, *A. K. Sahu*, R. Fathony, F. Condessa, Z. Kolter, US Patent App. No. 17/034496
-- System and Method of a Monotone Operator Neural Network, E. Winston, Z. Kolter, *A. K. Sahu*, US Patent App. No. 16/850816
+- [https://patentimages.storage.googleapis.com/1b/0a/71/3afcde66c09f5c/US20220108132A1.pdf Improved Adversarial Training Using Meta-Learned Initialization], X. Zhang, *A. K. Sahu*, Z. Kolter, US Patent App. No. 17/062385
+- [https://patentimages.storage.googleapis.com/55/2d/3c/f76d2502a6ad09/US20220101496A1.pdf Multiplicative Filter Networks], D. Willmott, *A. K. Sahu*, R. Fathony, F. Condessa, Z. Kolter], US Patent App. No. 17/034496
+- [https://patentimages.storage.googleapis.com/98/a8/24/234e55e3b06b07/US20210326663A1.pdf System and Method of a Monotone Operator Neural Network], E. Winston, Z. Kolter, *A. K. Sahu*, US Patent App. No. 16/850816
 
 - [https://patentimages.storage.googleapis.com/e7/29/f2/91a56de797faa6/US20210089879A1.pdf  Bayesian Optimization based query efficient black box adversarial attacks], S. N. Shukla, *A. K. Sahu*, D. Willmott, Z. Kolter, US Patent App. No. 16/580587
 
@@ -17,11 +17,19 @@
 
 
 == Journal Papers and Preprints
-- D, Willmott\*, A.K. Sahu\*, F. Sheikholeslami\*, F. Condessa, and J.Zico Kolter, You only query once: Effective black box adversarial attacks with minimal repeated queries, June 2020 (\* denotes equal contribution)
+- A. S. Bedi, C. Fan, *A. K. Sahu*, A. Koppel, F. Huang, B. Saddler and D. Manocha, FedBC: Calibrating Global and Local Models via Federated Learning Beyond Consensus, May 2022
+
+- N. Petrovic, D. Bajovic, S. Kar, D. Jakovetic, and *A. K. Sahu*, Large deviations for products of non identically distributed network matrices with applications to communication-efficient distributed inference, May 2022, Under review in IEEE Transactions on Signal Processing
+
+- D. Jakovetic, M. Vukovic, D. Bajovic, *A.K. Sahu*, S. Kar, [https://github.com/dusanjakovetic/Large-scale-and-distributed-optimization-learning-and-inference/blob/main/DistributedRecursiveHeavyTail.pdf Distributed recursive estimation under heavy-tail communication noise], Under review in SIAM Journal on Control and Optimization, January 2022
+
+- D. Jakovetic, D. Bajovic, *A.K. Sahu*, S. Kar, N. Milosevic and D. Stamenkovic, [https://arxiv.org/pdf/2204.02593.pdf Nonlinear gradient mappings and stochastic optimization: A general framework with applications to heavy-tail noise], Under review in SIAM Journal of Control and Optimization, October 2021
+
+- D, Willmott\*, A.K. Sahu\*, F. Sheikholeslami\*, F. Condessa, and J.Zico Kolter, [https://arxiv.org/pdf/2102.00029.pdf You only query once: Effective black box adversarial attacks with minimal repeated queries], June 2020 (\* denotes equal contribution)
 
 - S.N. Shukla, *A.K. Sahu*, D. Willmott and J.Zico Kolter, [ICML2020__HardLabel-3.pdf Hard Label Black-box Adversarial Attacks in Low Query Budget Regimes], February 2020
 
-- *A.K. Sahu* and S. Kar, [Proc_IEEE_FW-2.pdf Decentralized Zeroth Order Constrained Stochastic Optimization Algorithms: Frank-Wolfe and Variants With Applications to Black-Box Adversarial Attacks], Accepted. To appear in the /Proceedings of the IEEE/.
+- *A.K. Sahu* and S. Kar, [Proc_IEEE_FW-2.pdf Decentralized Zeroth Order Constrained Stochastic Optimization Algorithms: Frank-Wolfe and Variants With Applications to Black-Box Adversarial Attacks], In the /Proceedings of the IEEE/.
 
 - *A.K. Sahu*, J.Zico Kolter and S.N. Shukla, [gmrf.pdf Gaussian MRF Covariance Modeling for Efficient Black-Box Adversarial Attacks], September 2019, ([https://github.com/anitksahu/GMRF Code])
 
@@ -46,6 +54,13 @@
 - *A.K. Sahu* and [https://users.ece.cmu.edu/~soummyak/   S. Kar], [http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=7265085  "Distributed Sequential Detection for Gaussian Shift-in-Mean Hypothesis Testing"], IEEE Transactions on Signal Processing,
 Vol:64, Issue 1, pp. 89-103, 2016
 == Conference Papers
+- G. Chennupati, M. Rao, G. Chadha, A. Eakin, R. Anirudh, G. Tiwari, *A.K. Sahu*, A. Rastrow, J. Droppo, A. Oberlin, N. Buddha, P. Venkataraman, Z. Wu and P. Sitpure ,ILASR: Privacy-Preserving Incremental Learning for Automatic Speech Recognition at Production Scale, KDD 2022
+
+- J. Ding, E. Tramel, S. Wu, *A.K. Sahu*, S. Avestimehr and T. Zhang, [https://assets.amazon.science/16/e1/9d0192c14604b211336be6c442f5/federated-learning-challenge-and-opportunities-an-outlook.pdf Federated learning challenges and opportunities: An outlook], ICASSP 2022
+
+- H. Chen, J. Ding, E. Tramel, S. Wu, *A.K. Sahu*, S. Avestimehr and T. Zhang, [https://aclanthology.org/2022.fl4nlp-1.1.pdf ActPerFL: Active personalized federated learning], [https://aclanthology.org/events/fl4nlp-2022/ ACL 2022 Workshop on Federated Learning for Natural Language Processing] 
+
+- S.Lee, *A.K. Sahu*, C. He and S. Avestimehr, [https://www.amazon.science/publications/partial-model-averaging-in-federated-learning-performance-guarantees-and-benefits Partial Model Averaging in Federated Learning: Performance Guarantees and Benefits], AAAI 2022 Workshop on Trustable, Verifiable and Auditable Federated Learning [https://federated-learning.org/fl-aaai-2022/ (FL-AAAI-22)]
 
 - S.N. Shukla, *A.K. Sahu*, D. Willmott and J. Zico Kolter, [kdd_bo.pdf Simple and Efficient Hard Label Black-box Adversarial Attacks in Low Query Budget Regimes], [https://www.kdd.org/kdd2021/ KDD 2021]
 
