@@ -7,7 +7,7 @@
 - *A.K. Sahu* and S. Kar, Distributed recursive testing of composite hypothesis in multi-agent networks, in Data Fusion in Wireless Sensor Networks: A Statistical Signal Processing Perspective, Domenico Ciuonzo and Pierluigi Salvo Rossi, Eds., Institution of Engineering & Technology, 2019
 == Patents
 - [https://patentimages.storage.googleapis.com/1b/0a/71/3afcde66c09f5c/US20220108132A1.pdf Improved Adversarial Training Using Meta-Learned Initialization], X. Zhang, *A. K. Sahu*, Z. Kolter, US Patent App. No. 17/062385
-- [https://patentimages.storage.googleapis.com/55/2d/3c/f76d2502a6ad09/US20220101496A1.pdf Multiplicative Filter Networks], D. Willmott, *A. K. Sahu*, R. Fathony, F. Condessa, Z. Kolter], US Patent App. No. 17/034496
+- [https://patentimages.storage.googleapis.com/55/2d/3c/f76d2502a6ad09/US20220101496A1.pdf Multiplicative Filter Networks], D. Willmott, *A. K. Sahu*, R. Fathony, F. Condessa, Z. Kolter, US Patent App. No. 17/034496
 - [https://patentimages.storage.googleapis.com/98/a8/24/234e55e3b06b07/US20210326663A1.pdf System and Method of a Monotone Operator Neural Network], E. Winston, Z. Kolter, *A. K. Sahu*, US Patent App. No. 16/850816
 
 - [https://patentimages.storage.googleapis.com/e7/29/f2/91a56de797faa6/US20210089879A1.pdf  Bayesian Optimization based query efficient black box adversarial attacks], S. N. Shukla, *A. K. Sahu*, D. Willmott, Z. Kolter, US Patent App. No. 16/580587
@@ -26,7 +26,7 @@
 
 - D. Jakovetic, D. Bajovic, *A.K. Sahu*, S. Kar, N. Milosevic and D. Stamenkovic, [https://arxiv.org/pdf/2204.02593.pdf Nonlinear gradient mappings and stochastic optimization: A general framework with applications to heavy-tail noise], Under review in SIAM Journal of Control and Optimization, October 2021
 
-- D, Willmott\*, A.K. Sahu\*, F. Sheikholeslami\*, F. Condessa, and J.Zico Kolter, [https://arxiv.org/pdf/2102.00029.pdf You only query once: Effective black box adversarial attacks with minimal repeated queries], June 2020 (\* denotes equal contribution)
+- D, Willmott\*, *A.K. Sahu*\*, F. Sheikholeslami\*, F. Condessa, and J.Zico Kolter, [https://arxiv.org/pdf/2102.00029.pdf You only query once: Effective black box adversarial attacks with minimal repeated queries], June 2020 (\* denotes equal contribution)
 
 - S.N. Shukla, *A.K. Sahu*, D. Willmott and J.Zico Kolter, [ICML2020__HardLabel-3.pdf Hard Label Black-box Adversarial Attacks in Low Query Budget Regimes], February 2020
 
@@ -67,7 +67,7 @@ Vol:64, Issue 1, pp. 89-103, 2016
 
 - S.N. Shukla, *A.K. Sahu*, D. Willmott and J. Zico Kolter, [kdd_bo.pdf Simple and Efficient Hard Label Black-box Adversarial Attacks in Low Query Budget Regimes], [https://www.kdd.org/kdd2021/ KDD 2021]
 
-- R. Fathony\*, A.K. Sahu\*, D. Willmott\* and J. Zico Kolter, [https://openreview.net/forum?id=OmtmcPkkhT Multiplicative Filter Networks], [https://iclr.cc ICLR 2021] (\* denotes equal contribution)
+- R. Fathony\*, *A.K. Sahu*\*, D. Willmott\* and J. Zico Kolter, [https://openreview.net/forum?id=OmtmcPkkhT Multiplicative Filter Networks], [https://iclr.cc ICLR 2021] (\* denotes equal contribution)
 
 - J. Wang, *A.K. Sahu*, G. Joshi and S. Kar, [Asilomar_MATCHA.pdf Exploring the Error-Runtime Trade-off in Decentralized Optimization], In Proceedings of [http://www.asilomarsscconf.org/  54th Annual Asilomar Conference on Signals, Systems and Computers, 2020, Pacific Grove, CA]
 
