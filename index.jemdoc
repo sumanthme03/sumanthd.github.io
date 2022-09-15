@@ -25,16 +25,17 @@ You can find more about me by browsing this site.
 
 == Research News
 ~~~
-- Paper on /Production Scale Incremental Learning for ASR/  accepted to KDD 2022, Applied Science Track.
+- Paper on [https://arxiv.org/pdf/2204.08069.pdf Personalized federated learning] accepted to NeurIPS 2022
+~~~
+
+~~~
+- Paper on [https://www.amazon.science/publications/ilasr-privacy-preserving-incremental-learning-for-automatic-speech-recognition-at-production-scale Production Scale Incremental Learning for ASR]  accepted to KDD 2022, Applied Science Track.
 ~~~
 
 ~~~
 - New preprints on dealing with heavy-tailed noise in [https://arxiv.org/pdf/2204.02593.pdf stochastic optimization] and [[https://github.com/dusanjakovetic/Large-scale-and-distributed-optimization-learning-and-inference/blob/main/DistributedRecursiveHeavyTail.pdf distributed parameter estimation]. 
 ~~~
 
-~~~
-- New preprint on [https://arxiv.org/pdf/2204.08069.pdf Personalized federated learning]
-~~~
 
 
 

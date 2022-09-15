@@ -55,7 +55,9 @@
 - *A.K. Sahu* and [https://users.ece.cmu.edu/~soummyak/   S. Kar], [http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=7265085  "Distributed Sequential Detection for Gaussian Shift-in-Mean Hypothesis Testing"], IEEE Transactions on Signal Processing,
 Vol:64, Issue 1, pp. 89-103, 2016
 == Conference Papers
-- G. Chennupati, M. Rao, G. Chadha, A. Eakin, R. Anirudh, G. Tiwari, *A.K. Sahu*, A. Rastrow, J. Droppo, A. Oberlin, N. Buddha, P. Venkataraman, Z. Wu and P. Sitpure ,ILASR: Privacy-Preserving Incremental Learning for Automatic Speech Recognition at Production Scale, KDD 2022
+- H. Chen, J. Ding, E. Tramel, S. Wu, *A.K. Sahu*, S. Avestimehr and T. Zhang, [https://arxiv.org/pdf/2204.08069.pdf Self-Aware Personalized Federated Learning], [https://neurips.cc NeurIPS 2022]
+
+- G. Chennupati, M. Rao, G. Chadha, A. Eakin, R. Anirudh, G. Tiwari, *A.K. Sahu*, A. Rastrow, J. Droppo, A. Oberlin, N. Buddha, P. Venkataraman, Z. Wu and P. Sitpure ,[https://www.amazon.science/publications/ilasr-privacy-preserving-incremental-learning-for-automatic-speech-recognition-at-production-scale ILASR: Privacy-Preserving Incremental Learning for Automatic Speech Recognition at Production Scale], KDD 2022
 
 - J. Ding, E. Tramel, S. Wu, *A.K. Sahu*, S. Avestimehr and T. Zhang, [https://assets.amazon.science/16/e1/9d0192c14604b211336be6c442f5/federated-learning-challenge-and-opportunities-an-outlook.pdf Federated learning challenges and opportunities: An outlook], ICASSP 2022
 
