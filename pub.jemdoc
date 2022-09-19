@@ -24,7 +24,7 @@
 
 - D. Jakovetic, M. Vukovic, D. Bajovic, *A.K. Sahu*, S. Kar, [https://github.com/dusanjakovetic/Large-scale-and-distributed-optimization-learning-and-inference/blob/main/DistributedRecursiveHeavyTail.pdf Distributed recursive estimation under heavy-tail communication noise], Under review in SIAM Journal on Control and Optimization, January 2022
 
-- D. Jakovetic, D. Bajovic, *A.K. Sahu*, S. Kar, N. Milosevic and D. Stamenkovic, [https://arxiv.org/pdf/2204.02593.pdf Nonlinear gradient mappings and stochastic optimization: A general framework with applications to heavy-tail noise], Under review in SIAM Journal of Control and Optimization, October 2021
+- D. Jakovetic, D. Bajovic, *A.K. Sahu*, S. Kar, N. Milosevic and D. Stamenkovic, [https://arxiv.org/pdf/2204.02593.pdf Nonlinear gradient mappings and stochastic optimization: A general framework with applications to heavy-tail noise], Accepted. SIAM Journal of Optimization
 
 - D, Willmott\*, *A.K. Sahu*\*, F. Sheikholeslami\*, F. Condessa, and J.Zico Kolter, [https://arxiv.org/pdf/2102.00029.pdf You only query once: Effective black box adversarial attacks with minimal repeated queries], June 2020 (\* denotes equal contribution)
 
