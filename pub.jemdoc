@@ -17,20 +17,16 @@
 - [https://patentimages.storage.googleapis.com/fb/0d/7c/3161c154555e25/US20210089960A1.pdf Training a machine learning model using a batch based active learning approach], J. Szurley, W. Lin, *A. K. Sahu*, G. Gupta, US Patent App. No. 16/582928
 
 
-== Journal Papers and Preprints
+== Preprints
 - A. S. Bedi, C. Fan, *A. K. Sahu*, A. Koppel, F. Huang, B. Saddler and D. Manocha, FedBC: Calibrating Global and Local Models via Federated Learning Beyond Consensus, May 2022
 
 - N. Petrovic, D. Bajovic, S. Kar, D. Jakovetic, and *A. K. Sahu*, Large deviations for products of non identically distributed network matrices with applications to communication-efficient distributed inference, May 2022, Under review in IEEE Transactions on Signal Processing
 
 - D. Jakovetic, M. Vukovic, D. Bajovic, *A.K. Sahu*, S. Kar, [https://github.com/dusanjakovetic/Large-scale-and-distributed-optimization-learning-and-inference/blob/main/DistributedRecursiveHeavyTail.pdf Distributed recursive estimation under heavy-tail communication noise], Under review in SIAM Journal on Control and Optimization, January 2022
 
-- D. Jakovetic, D. Bajovic, *A.K. Sahu*, S. Kar, N. Milosevic and D. Stamenkovic, [https://arxiv.org/pdf/2204.02593.pdf Nonlinear gradient mappings and stochastic optimization: A general framework with applications to heavy-tail noise], Accepted. SIAM Journal of Optimization
-
 - D, Willmott\*, *A.K. Sahu*\*, F. Sheikholeslami\*, F. Condessa, and J.Zico Kolter, [https://arxiv.org/pdf/2102.00029.pdf You only query once: Effective black box adversarial attacks with minimal repeated queries], June 2020 (\* denotes equal contribution)
 
 - S.N. Shukla, *A.K. Sahu*, D. Willmott and J.Zico Kolter, [ICML2020__HardLabel-3.pdf Hard Label Black-box Adversarial Attacks in Low Query Budget Regimes], February 2020
-
-- *A.K. Sahu* and S. Kar, [Proc_IEEE_FW-2.pdf Decentralized Zeroth Order Constrained Stochastic Optimization Algorithms: Frank-Wolfe and Variants With Applications to Black-Box Adversarial Attacks], In the /Proceedings of the IEEE/.
 
 - *A.K. Sahu*, J.Zico Kolter and S.N. Shukla, [gmrf.pdf Gaussian MRF Covariance Modeling for Efficient Black-Box Adversarial Attacks], September 2019, ([https://github.com/anitksahu/GMRF Code])
 
@@ -38,16 +34,22 @@
 
 - G. Gupta, *A.K. Sahu* and Wan-Yi Lin, [https://arxiv.org/pdf/1909.12473.pdf Learning in Confusion: Batch Active Learning with Noisy Oracle], September 2019
 
+- *A.K. Sahu*, D.Jakovetic, D. Bajovic and [https://users.ece.cmu.edu/~soummyak/   S. Kar], [maintac_1col.pdf Communication-Efficient Distributed Strongly Convex Stochastic Optimization: Non-Asymptotic Rates]
+
+- *A.K. Sahu*, D.Jakovetic and [https://users.ece.cmu.edu/~soummyak/   S. Kar], [comm_ci_jmlr_prefinal.pdf “Communication Optimality Trade-offs For Distributed Estimation”]
+
+== Journal Papers
+- D. Jakovetic, D. Bajovic, *A.K. Sahu*, S. Kar, N. Milosevic and D. Stamenkovic, [https://arxiv.org/pdf/2204.02593.pdf Nonlinear gradient mappings and stochastic optimization: A general framework with applications to heavy-tail noise], Accepted. SIAM Journal of Optimization
+
+- *A.K. Sahu* and S. Kar, [Proc_IEEE_FW-2.pdf Decentralized Zeroth Order Constrained Stochastic Optimization Algorithms: Frank-Wolfe and Variants With Applications to Black-Box Adversarial Attacks], In the /Proceedings of the IEEE/.
+
 - T. Li, *A.K. Sahu*, A. Talwalkar and V. Smith, [https://arxiv.org/pdf/1908.07873.pdf Federated Learning: Challenges, Methods and Future Directions], August 2019, A shorter version will appear in the /Special Issue on Distributed, Streaming Machine Learning/ of IEEE Signal Processing Magazine 2020.
 
-- J. Wang, *A.K. Sahu*, Z. Yang, G. Joshi and S. Kar, [https://arxiv.org/pdf/1905.09435.pdf MATCHA: Speeding up Decentralized SGD via Matching Decomposition Sampling], May 2019 (An abridged version appears in [http://federated-learning.org/fl-neurips-2019/     NeurIPS 2019 Workshop on Federated Learning] /Best Student Paper Award/)
+- J. Wang, *A.K. Sahu*, G. Joshi and S. Kar, [https://arxiv.org/pdf/1905.09435.pdf MATCHA: Speeding up Decentralized SGD via Matching Decomposition Sampling], May 2019. Accepted. To appear in IEEE Transactions on Signal Processing. (An abridged version appears in [http://federated-learning.org/fl-neurips-2019/     NeurIPS 2019 Workshop on Federated Learning] /Best Student Paper Award/)
 
-- *A.K. Sahu*, D.Jakovetic, D. Bajovic and [https://users.ece.cmu.edu/~soummyak/   S. Kar], [maintac_1col.pdf Communication-Efficient Distributed Strongly Convex Stochastic Optimization: Non-Asymptotic Rates], Under Review in IEEE Transactions on Automatic Control. Initial Submission: September 2018
 - *A.K. Sahu*, D.Jakovetic, D. Bajovic and [https://users.ece.cmu.edu/~soummyak/   S. Kar], [comm_ci_eurasipSUBMIT.pdf Communication Efficient Distributed Weighted Non-Linear Least Squares Estimation], EURASIP Journal on Advances in Signal Processing.Vol.66, No.1, October 2018
 
 - *A.K. Sahu*, D.Jakovetic and [https://users.ece.cmu.edu/~soummyak/   S. Kar], [random_fields_1col_final.pdf “CIRFE: A Distributed Random Fields Estimator”], IEEE Transactions on Signal Processing, Vol.66, No. 18, pp. 4980-4995, September 2018
-
-- *A.K. Sahu*, D.Jakovetic and [https://users.ece.cmu.edu/~soummyak/   S. Kar], [comm_ci_jmlr_prefinal.pdf “Communication Optimality Trade-offs For Distributed Estimation”], Under review in [http://www.jmlr.org  Journal of Machine Learning Research]. Initial Submission: January 2018
 - *A.K. Sahu* and [https://users.ece.cmu.edu/~soummyak/   S. Kar], [http://ieeexplore.ieee.org/document/7885107/  "Recursive Distributed Detection for Composite Hypothesis Testing: Nonlinear Observation Models in Additive Gaussian Noise”], IEEE Transactions on Information Theory. Vol: 63, Issue 8, pp. 4797-4828, 2017.
 
 - *A.K. Sahu*, [https://users.ece.cmu.edu/~soummyak/   S. Kar], [https://users.ece.cmu.edu/~moura/   Jose' M. F. Moura], [http://ee.princeton.edu/people/faculty/h-vincent-poor   H. Vincent Poor], [http://ieeexplore.ieee.org/document/7592408/  "Distributed Constrained Recursive Nonlinear Least-Squares Estimation: Algorithms and Asymptotics"], /Special Issue on Inference and Learning over Networks/ of IEEE Transactions on Signal and Information Processing over Networks. Vol:2, Issue 4, pp. 426-441, 2016.
