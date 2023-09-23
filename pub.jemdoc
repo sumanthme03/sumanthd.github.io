@@ -20,10 +20,6 @@
 == Preprints
 - A. S. Bedi, C. Fan, *A. K. Sahu*, A. Koppel, F. Huang, B. Saddler and D. Manocha, FedBC: Calibrating Global and Local Models via Federated Learning Beyond Consensus, May 2022
 
-- N. Petrovic, D. Bajovic, S. Kar, D. Jakovetic, and *A. K. Sahu*, Large deviations for products of non identically distributed network matrices with applications to communication-efficient distributed inference, May 2022, Under review in IEEE Transactions on Signal Processing
-
-- D. Jakovetic, M. Vukovic, D. Bajovic, *A.K. Sahu*, S. Kar, [https://github.com/dusanjakovetic/Large-scale-and-distributed-optimization-learning-and-inference/blob/main/DistributedRecursiveHeavyTail.pdf Distributed recursive estimation under heavy-tail communication noise], Under review in SIAM Journal on Control and Optimization, January 2022
-
 - D, Willmott\*, *A.K. Sahu*\*, F. Sheikholeslami\*, F. Condessa, and J.Zico Kolter, [https://arxiv.org/pdf/2102.00029.pdf You only query once: Effective black box adversarial attacks with minimal repeated queries], June 2020 (\* denotes equal contribution)
 
 - S.N. Shukla, *A.K. Sahu*, D. Willmott and J.Zico Kolter, [ICML2020__HardLabel-3.pdf Hard Label Black-box Adversarial Attacks in Low Query Budget Regimes], February 2020
@@ -39,7 +35,13 @@
 - *A.K. Sahu*, D.Jakovetic and [https://users.ece.cmu.edu/~soummyak/   S. Kar], [comm_ci_jmlr_prefinal.pdf “Communication Optimality Trade-offs For Distributed Estimation”]
 
 == Journal Papers
-- D. Jakovetic, D. Bajovic, *A.K. Sahu*, S. Kar, N. Milosevic and D. Stamenkovic, [https://arxiv.org/pdf/2204.02593.pdf Nonlinear gradient mappings and stochastic optimization: A general framework with applications to heavy-tail noise], Accepted. SIAM Journal of Optimization
+- S. Lee, *A.K. Sahu*, C. He, S, Avestimehr, [https://arxiv.org/pdf/2201.03789 Partial model averaging in federated learning: Performance guarantees and benefits], NeuroComputing, 2023 
+
+- D. Jakovetic, M. Vukovic, D. Bajovic, *A.K. Sahu*, S. Kar, [https://epubs.siam.org/doi/abs/10.1137/22M1477015 Distributed Recursive Estimation under Heavy-Tail Communication Noise], SIAM Journal on Control and Optimization 2023
+
+- D. Jakovetic, D. Bajovic, *A.K. Sahu*, S. Kar, N. Milosevic and D. Stamenkovic, [https://arxiv.org/pdf/2204.02593.pdf Nonlinear gradient mappings and stochastic optimization: A general framework with applications to heavy-tail noise], SIAM Journal of Optimization
+
+- N. Petrovic, D. Bajovic, S. Kar, D. Jakovetic, *A.K. Sahu*, [https://ieeexplore.ieee.org/abstract/document/10097624/ Large deviations for products of non identically distributed network matrices with applications to communication-efficient distributed learning and inference], IEEE Transactions on Signal Processing
 
 - *A.K. Sahu* and S. Kar, [Proc_IEEE_FW-2.pdf Decentralized Zeroth Order Constrained Stochastic Optimization Algorithms: Frank-Wolfe and Variants With Applications to Black-Box Adversarial Attacks], In the /Proceedings of the IEEE/.
 
@@ -57,6 +59,14 @@
 - *A.K. Sahu* and [https://users.ece.cmu.edu/~soummyak/   S. Kar], [http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=7265085  "Distributed Sequential Detection for Gaussian Shift-in-Mean Hypothesis Testing"], IEEE Transactions on Signal Processing,
 Vol:64, Issue 1, pp. 89-103, 2016
 == Conference Papers
+- F. Kang, H. A. Just, *A. K. Sahu*, R. Jia, [https://arxiv.org/abs/2307.02460 Performance Scaling via Optimal Transport: Enabling Data Selection from Partially Revealed Sources], NeurIPS 2023
+
+- G.V. Rames, G. Chennupati, M. Rao, *A.K. Sahu*, A. Rastrow, J. Droppo,[https://arxiv.org/pdf/2308.02013 Federated Representation Learning for Automatic Speech Recognition], InterSpeech 2023
+
+- A. Agrawal, M. Rao, *A.K. Sahu*, G. Chennupati, A. Stolcke, [Learning when to trust which teacher for weakly supervised ASR https://arxiv.org/pdf/2306.12012], InterSpeech 2023
+
+- M. Rao, G. Chennupati, G. Tiwari, *A.K. Sahu*, A .Raju, A. Rastrow, J. Droppo, [https://arxiv.org/pdf/2306.12015 Federated self-learning with weak supervision for speech recognition], ICASSP 2023
+ 
 - H. Chen, J. Ding, E. Tramel, S. Wu, *A.K. Sahu*, S. Avestimehr and T. Zhang, [https://arxiv.org/pdf/2204.08069.pdf Self-Aware Personalized Federated Learning], [https://neurips.cc NeurIPS 2022]
 
 - G. Chennupati, M. Rao, G. Chadha, A. Eakin, R. Anirudh, G. Tiwari, *A.K. Sahu*, A. Rastrow, J. Droppo, A. Oberlin, N. Buddha, P. Venkataraman, Z. Wu and P. Sitpure ,[https://www.amazon.science/publications/ilasr-privacy-preserving-incremental-learning-for-automatic-speech-recognition-at-production-scale ILASR: Privacy-Preserving Incremental Learning for Automatic Speech Recognition at Production Scale], KDD 2022
